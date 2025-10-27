@@ -466,5 +466,41 @@
       { "name": "4 star", "count": 60000 },
       { "name": "5 star", "count": 114000 }
     ]
+  },
+  {
+    "image": "https://f4.bcbits.com/img/a3563325896_16.jpg",
+    "title": "Calm Flow Meditation",
+    "companyName": "Tranquil Minds Ltd.",
+    "id": 127,
+    "description": "Guided meditations, sleep stories, and breathing exercises to reduce stress and improve sleep.",
+    "size": 150,
+    "reviews": 180.0,
+    "ratingAvg": 4.8,
+    "downloads": 15.0,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5200000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5i1kzBuPVS4wRVz0nbEMCrHKSJIEAVo9lZw&s",
+    "title": "Civilization Saga",
+    "companyName": "Strategy Masters Inc.",
+    "id": 128,
+    "description": "A deep turn-based strategy game where you build an empire from the stone age to the space age.",
+    "size": 850,
+    "reviews": 35.0,
+    "ratingAvg": 4.5,
+    "downloads": 18.0,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 125000 },
+      { "name": "5 star", "count": 140000 }
+    ]
   }
 ]

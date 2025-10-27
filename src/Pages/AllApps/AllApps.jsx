@@ -9,9 +9,9 @@ const AllApps = () => {
             <h1 className='font-bold text-[30px] md:text-[48px]'>Our All Applications</h1>
             <p className='font-normal text-[12px] md:text-[20px]'>Explore All Apps on the Market developed by us. We code for Millions</p>
 
-            <div className='flex justify-between items-center'>
+            <div className='flex justify-between items-center mt-5'>
                 <h1 className='font-semibold text-[24px]'>{Apps.length} Apps Found</h1>
-                <input className='font-normal text-[16px]' type="button" value="search Apps" />
+                <input className='font-normal text-[16px] border-2 border-gray-300 w-[150px] md:w-[400px] h-[30px] md:h-[44px] rounded-2xl hover:border-purple-400 text-gray-500 px-3' type="search" value="" placeholder='search Apps' />
             </div>
 
            <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-5 mt-5 md:mt-10'>
