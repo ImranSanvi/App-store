@@ -4,3 +4,7 @@
 body {
   font-family: "Inter", sans-serif;
 }
+
+body {
+  background-color: rgba(204, 225, 247, 0.2);
+}
