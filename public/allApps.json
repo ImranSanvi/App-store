@@ -1,0 +1,470 @@
+[
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8xjzSBBjBScUBNHzxBH0AtzaOXwr9dauyw&s",
+    "title": "Astro Atlas Pro",
+    "companyName": "Cosmic Coders Inc.",
+    "id": 101,
+    "description": "The ultimate guide to the stars and planets. Explore high-definition maps and real-time astronomical data.",
+    "size": 75,
+    "reviews": 125.0,
+    "ratingAvg": 4.7,
+    "downloads": 5.5,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 80500 }
+    ]
+  },
+  {
+    "image": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/233135678/original/42ceae79b5bf192e411e12bcb7182d80c0d4ac61/make-famous-paintings-in-pixel-art-for-your-nft-collection.png",
+    "title": "Pixel Art Painter",
+    "companyName": "Creative Canvas LLC",
+    "id": 102,
+    "description": "A simple yet powerful tool for creating beautiful pixel art. Perfect for beginners and pros alike.",
+    "size": 42,
+    "reviews": 89.0,
+    "ratingAvg": 4.4,
+    "downloads": 3.2,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTenQKKfL72R_y0gzPfNe7qft3FZKsUkzspmg&s",
+    "title": "Zen Focus Timer",
+    "companyName": "Mindful Software",
+    "id": 103,
+    "description": "A minimalist timer app to boost productivity using the Pomodoro technique. Includes calming background sounds.",
+    "size": 25,
+    "reviews": 210.0,
+    "ratingAvg": 4.8,
+    "downloads": 11.0,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 54000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Yeifs27KuAic9mTmyTEi3-tkJkhSuaoHSw&s",
+    "title": "Recipe Realm",
+    "companyName": "Gourmet Apps Ltd.",
+    "id": 104,
+    "description": "Thousands of recipes from around the world. Save your favorites and create personalized shopping lists.",
+    "size": 95,
+    "reviews": 1500.0,
+    "ratingAvg": 4.5,
+    "downloads": 85.0,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 848000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqVZqVqFVxVJbrwIe66EukorFlobBn5DvCQQ&s",
+    "title": "Crypto Tracker Live",
+    "companyName": "Digital Finance Solutions",
+    "id": 105,
+    "description": "Real-time cryptocurrency price tracking, portfolio management, and market news.",
+    "size": 60,
+    "reviews": 320.0,
+    "ratingAvg": 4.6,
+    "downloads": 25.0,
+    "ratings": [
+      { "name": "1 star", "count": 3500 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 184500 }
+    ]
+  },
+  {
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/78e104209362021.68dbb70ac0d29.jpg",
+    "title": "Language Leap",
+    "companyName": "Global Educators",
+    "id": 106,
+    "description": "Learn a new language through interactive games and structured lessons. Supports 15 languages.",
+    "size": 120,
+    "reviews": 980.0,
+    "ratingAvg": 4.3,
+    "downloads": 70.0,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://i0.wp.com/nerdarchy.com/wp-content/uploads/2020/09/quest-rpg.jpg?fit=1125%2C867&ssl=1",
+    "title": "Adventure Quest RPG",
+    "companyName": "Epic Game Studios",
+    "id": 107,
+    "description": "An immersive open-world role-playing game with stunning graphics and a deep storyline.",
+    "size": 550,
+    "reviews": 4500.0,
+    "ratingAvg": 4.2,
+    "downloads": 150.0,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2000000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1N-HwU2E65c5LIGhpxNYgE5aMZhL_pwuSQ&s",
+    "title": "Simple Note Keeper",
+    "companyName": "Productivity Tools Co.",
+    "id": 108,
+    "description": "A fast and light-weight app for taking quick notes, creating checklists, and syncing across devices.",
+    "size": 15,
+    "reviews": 500.0,
+    "ratingAvg": 4.9,
+    "downloads": 40.0,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 412000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKjlnznjVkOEvXr7ZdgtdRFrJTTZM5JRWAbw&s",
+    "title": "Lens Flare Editor",
+    "companyName": "Photo Magic Labs",
+    "id": 109,
+    "description": "Professional-grade photo editing with AI filters and advanced color correction tools.",
+    "size": 110,
+    "reviews": 750.0,
+    "ratingAvg": 4.4,
+    "downloads": 22.5,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 75000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3HuiDXiP9Yw8osmUhvjiodkkftMNBSRSow&s",
+    "title": "Logic Grid Puzzles",
+    "companyName": "Brain Builders Inc.",
+    "id": 110,
+    "description": "Daily brain training with thousands of logic and reasoning puzzles.",
+    "size": 30,
+    "reviews": 55.0,
+    "ratingAvg": 4.6,
+    "downloads": 7.8,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 36000 }
+    ]
+  },
+  {
+    "image": "https://mir-s3-cdn-cf.behance.net/projects/404/3a50d4218070331.Y3JvcCwxNTcxLDEyMjksMCw4MTM.png",
+    "title": "SkyCast Weather",
+    "companyName": "Clear Day Software",
+    "id": 111,
+    "description": "Hyper-local forecasts, radar, and severe weather alerts for any location.",
+    "size": 55,
+    "reviews": 1200.0,
+    "ratingAvg": 4.1,
+    "downloads": 115.0,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqK8JVu--uLhe1ua3F2p8jux7_m9CMtCrJkg&s",
+    "title": "Money Flow Budget",
+    "companyName": "Financial Tools Corp.",
+    "id": 112,
+    "description": "Track your expenses, set savings goals, and manage your budget effortlessly.",
+    "size": 85,
+    "reviews": 650.0,
+    "ratingAvg": 4.7,
+    "downloads": 30.1,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 380000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMJEOogRTaB-9jEr88Nnnem34jxCA2jBTrQ&s",
+    "title": "EchoCast Player",
+    "companyName": "Audio Streaming Inc.",
+    "id": 113,
+    "description": "A beautiful and intuitive player for all your favorite podcasts and audiobooks.",
+    "size": 70,
+    "reviews": 250.0,
+    "ratingAvg": 4.5,
+    "downloads": 15.2,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 135000 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/12/94/8e1294f0-c647-53a4-c59f-7a8d93b73151/463e32a3-6ef0-4088-a03c-d1b7b569ebe2_05-export_-_6.7__Display_-_Portrait.jpg/300x0w.jpg",
+    "title": "FitPath Pro",
+    "companyName": "Health & Movement LLC",
+    "id": 114,
+    "description": "Personalized workout plans, video demonstrations, and progress tracking for all fitness levels.",
+    "size": 220,
+    "reviews": 880.0,
+    "ratingAvg": 4.6,
+    "downloads": 48.0,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 280000 },
+      { "name": "5 star", "count": 540000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqKIDkOgwZxNlq0mn3BlED1O3Z3W6__P6mEg&s",
+    "title": "Quantum Browser",
+    "companyName": "Secure Web Solutions",
+    "id": 115,
+    "description": "Fast, private, and secure web browsing with built-in ad blocking and VPN support.",
+    "size": 90,
+    "reviews": 3100.0,
+    "ratingAvg": 4.3,
+    "downloads": 250.0,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 1200000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBoTa1vQQSEZRfgwaCbKR_A5Mhqzxp0kk0g&s",
+    "title": "Sketch Pad Deluxe",
+    "companyName": "Digital Art Studios",
+    "id": 116,
+    "description": "A powerful drawing app with multiple layers, brushes, and professional color palettes.",
+    "size": 150,
+    "reviews": 420.0,
+    "ratingAvg": 4.5,
+    "downloads": 18.5,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 13000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 250000 }
+    ]
+  },
+  {
+    "image": "https://market-resized.envatousercontent.com/codecanyon.net/files/501722738/perveiw%20image.jpg?auto=format&q=94&cf_fit=crop&gravity=top&h=8000&w=590&s=6c15ecbd90fe31043418adf2421b59fdd3fabc22c2a56be04110b9140efb109a",
+    "title": "MelodyStream",
+    "companyName": "Global Beats Corp.",
+    "id": 117,
+    "description": "Millions of songs, curated playlists, and offline listening for music lovers.",
+    "size": 130,
+    "reviews": 8500.0,
+    "ratingAvg": 4.1,
+    "downloads": 550.0,
+    "ratings": [
+      { "name": "1 star", "count": 450000 },
+      { "name": "2 star", "count": 750000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 2800000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67ZIGhYKSTK9TJbUQaZu2xeAa51iRInzHyg&s",
+    "title": "Guardian Home Cam",
+    "companyName": "Smart Home Tech",
+    "id": 118,
+    "description": "Control and view your home security cameras remotely with real-time alerts.",
+    "size": 45,
+    "reviews": 150.0,
+    "ratingAvg": 4.2,
+    "downloads": 6.8,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://i.ytimg.com/vi/4ObO2kxl0Pw/maxresdefault.jpg",
+    "title": "Word Blitz Mania",
+    "companyName": "Casual Gaming Ltd.",
+    "id": 119,
+    "description": "A fast-paced word search and puzzle game to challenge your vocabulary.",
+    "size": 65,
+    "reviews": 180.0,
+    "ratingAvg": 4.8,
+    "downloads": 12.1,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 130000 }
+    ]
+  },
+  {
+    "image": "https://www.quickcartapp.in/media/image?path=uploads%2Fmedia%2F2025%2FA_New_Design_-_Made_with_PosterMyWall_%2834%29.jpg&width=1518&quality=80",
+    "title": "QuickCart List",
+    "companyName": "Organize Life Apps",
+    "id": 120,
+    "description": "Simple, shared grocery lists and smart suggestions to save you time and money.",
+    "size": 20,
+    "reviews": 95.0,
+    "ratingAvg": 4.7,
+    "downloads": 8.5,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 61000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECKB6jhjp-H3HAmTxACJxn1r8Q3_lxWHFUw&s",
+    "title": "Page Turner Reader",
+    "companyName": "Digital Library Solutions",
+    "id": 121,
+    "description": "Read eBooks with customizable fonts, margins, and an extensive built-in library.",
+    "size": 50,
+    "reviews": 400.0,
+    "ratingAvg": 4.4,
+    "downloads": 19.3,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 180000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOdv5WGBeWqTciVwlT_kO846O1xflTFOoDw&s",
+    "title": "CineCut Video Pro",
+    "companyName": "Motion Media Group",
+    "id": 122,
+    "description": "Edit videos on the go with professional cuts, transitions, and audio mixing.",
+    "size": 350,
+    "reviews": 120.0,
+    "ratingAvg": 4.0,
+    "downloads": 9.9,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sD2lfXhWD303f5x7hR7qxvE4L9b21JafRw&s",
+    "title": "Virtual City Builder",
+    "companyName": "NextGen Games",
+    "id": 123,
+    "description": "A complex city-building simulation in full 3D and VR support.",
+    "size": 950,
+    "reviews": 45.0,
+    "ratingAvg": 4.2,
+    "downloads": 2.1,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 20500 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZC4hC6ao1u58YgMaHN_9h6JEeSXYn5q_oA&s",
+    "title": "World Trek Guides",
+    "companyName": "Global Traveler LLC",
+    "id": 124,
+    "description": "Offline maps, itinerary planner, and tips for thousands of travel destinations.",
+    "size": 180,
+    "reviews": 700.0,
+    "ratingAvg": 4.6,
+    "downloads": 35.0,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 410000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPtjlm96RhZgbqIUblhJaAH2-DW-MhEq12g&s",
+    "title": "MatchConnect",
+    "companyName": "Social Link Solutions",
+    "id": 125,
+    "description": "Find and connect with people nearby based on shared interests and passions.",
+    "size": 105,
+    "reviews": 2100.0,
+    "ratingAvg": 3.9,
+    "downloads": 95.0,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 300000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhzFZpWkK1yEXEgAitMQxOv-xfENlzpHvGw&s",
+    "title": "CodeLab IDE",
+    "companyName": "Developer Tools Inc.",
+    "id": 126,
+    "description": "A mobile IDE for writing, compiling, and testing code in multiple programming languages.",
+    "size": 90,
+    "reviews": 180.0,
+    "ratingAvg": 4.7,
+    "downloads": 10.5,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 114000 }
+    ]
+  }
+]
