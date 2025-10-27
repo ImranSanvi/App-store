@@ -1,146 +1,146 @@
 [
   {
-    "image": "https://example.com/icons/icon_space_explorer.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8xjzSBBjBScUBNHzxBH0AtzaOXwr9dauyw&s",
     "title": "Astro Atlas Pro",
     "companyName": "Cosmic Coders Inc.",
     "id": 101,
     "description": "The ultimate guide to the stars and planets. Explore high-definition maps and real-time astronomical data.",
     "size": 75,
-    "reviews": 12500,
+    "reviews": 125.0,
     "ratingAvg": 4.7,
-    "downloads": 550000,
+    "downloads": 5.5,
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 250 },
-      { "name": "3 star", "count": 600 },
-      { "name": "4 star", "count": 3500 },
-      { "name": "5 star", "count": 8050 }
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 80500 }
     ]
   },
   {
-    "image": "https://example.com/icons/icon_pixel_editor.png",
+    "image": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/233135678/original/42ceae79b5bf192e411e12bcb7182d80c0d4ac61/make-famous-paintings-in-pixel-art-for-your-nft-collection.png",
     "title": "Pixel Art Painter",
     "companyName": "Creative Canvas LLC",
     "id": 102,
     "description": "A simple yet powerful tool for creating beautiful pixel art. Perfect for beginners and pros alike.",
     "size": 42,
-    "reviews": 8900,
+    "reviews": 89.0,
     "ratingAvg": 4.4,
-    "downloads": 320000,
+    "downloads": 3.2,
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 1100 },
-      { "name": "4 star", "count": 3000 },
-      { "name": "5 star", "count": 4000 }
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 40000 }
     ]
   },
   {
-    "image": "https://example.com/icons/icon_focus_timer.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTenQKKfL72R_y0gzPfNe7qft3FZKsUkzspmg&s",
     "title": "Zen Focus Timer",
     "companyName": "Mindful Software",
     "id": 103,
     "description": "A minimalist timer app to boost productivity using the Pomodoro technique. Includes calming background sounds.",
     "size": 25,
-    "reviews": 21000,
+    "reviews": 210.0,
     "ratingAvg": 4.8,
-    "downloads": 1100000,
+    "downloads": 11.0,
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 150 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 5400 },
-      { "name": "5 star", "count": 15000 }
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 54000 },
+      { "name": "5 star", "count": 150000 }
     ]
   },
   {
-    "image": "https://example.com/icons/icon_cookbook.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Yeifs27KuAic9mTmyTEi3-tkJkhSuaoHSw&s",
     "title": "Recipe Realm",
     "companyName": "Gourmet Apps Ltd.",
     "id": 104,
     "description": "Thousands of recipes from around the world. Save your favorites and create personalized shopping lists.",
     "size": 95,
-    "reviews": 150000,
+    "reviews": 1500.0,
     "ratingAvg": 4.5,
-    "downloads": 8500000,
+    "downloads": 85.0,
     "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 4000 },
-      { "name": "3 star", "count": 15000 },
-      { "name": "4 star", "count": 45000 },
-      { "name": "5 star", "count": 89800 }
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 848000 }
     ]
   },
   {
-    "image": "https://example.com/icons/icon_crypto_finance.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqVZqVqFVxVJbrwIe66EukorFlobBn5DvCQQ&s",
     "title": "Crypto Tracker Live",
     "companyName": "Digital Finance Solutions",
     "id": 105,
     "description": "Real-time cryptocurrency price tracking, portfolio management, and market news.",
     "size": 60,
-    "reviews": 32000,
+    "reviews": 320.0,
     "ratingAvg": 4.6,
-    "downloads": 2500000,
+    "downloads": 25.0,
     "ratings": [
-      { "name": "1 star", "count": 350 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 2500 },
-      { "name": "4 star", "count": 10000 },
-      { "name": "5 star", "count": 18450 }
+      { "name": "1 star", "count": 3500 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 184500 }
     ]
   },
   {
-    "image": "https://example.com/icons/icon_language_learning.png",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/78e104209362021.68dbb70ac0d29.jpg",
     "title": "Language Leap",
     "companyName": "Global Educators",
     "id": 106,
     "description": "Learn a new language through interactive games and structured lessons. Supports 15 languages.",
     "size": 120,
-    "reviews": 98000,
+    "reviews": 980.0,
     "ratingAvg": 4.3,
-    "downloads": 7000000,
+    "downloads": 70.0,
     "ratings": [
-      { "name": "1 star", "count": 3000 },
-      { "name": "2 star", "count": 5000 },
-      { "name": "3 star", "count": 15000 },
-      { "name": "4 star", "count": 35000 },
-      { "name": "5 star", "count": 40000 }
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 400000 }
     ]
   },
   {
-    "image": "https://example.com/icons/icon_rpg_game.png",
+    "image": "https://i0.wp.com/nerdarchy.com/wp-content/uploads/2020/09/quest-rpg.jpg?fit=1125%2C867&ssl=1",
     "title": "Adventure Quest RPG",
     "companyName": "Epic Game Studios",
     "id": 107,
     "description": "An immersive open-world role-playing game with stunning graphics and a deep storyline.",
     "size": 550,
-    "reviews": 450000,
+    "reviews": 4500.0,
     "ratingAvg": 4.2,
-    "downloads": 15000000,
+    "downloads": 150.0,
     "ratings": [
-      { "name": "1 star", "count": 15000 },
-      { "name": "2 star", "count": 25000 },
-      { "name": "3 star", "count": 50000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 210000 }
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 2000000 }
     ]
   },
   {
-    "image": "https://example.com/icons/icon_notepad.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1N-HwU2E65c5LIGhpxNYgE5aMZhL_pwuSQ&s",
     "title": "Simple Note Keeper",
     "companyName": "Productivity Tools Co.",
     "id": 108,
     "description": "A fast and light-weight app for taking quick notes, creating checklists, and syncing across devices.",
     "size": 15,
-    "reviews": 50000,
+    "reviews": 500.0,
     "ratingAvg": 4.9,
-    "downloads": 4000000,
+    "downloads": 40.0,
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 500 },
-      { "name": "4 star", "count": 8000 },
-      { "name": "5 star", "count": 41200 }
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 412000 }
     ]
   }
 ]
