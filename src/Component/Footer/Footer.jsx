@@ -6,10 +6,28 @@ const Footer = () => {
   return (
     <div className="py-5 px-[30px] md:px-[80px] flex flex-col bg-black space-y-5">
       <div className="flex justify-between items-center">
-        <div className="flex justify-between items-center gap-1">
-          <img className="w-[40px] h-[40px] " src={logoImg} alt="" />
-          <h1 className="font-bold text-[16px] text-white">HERO.IO</h1>
+        <div className="flex flex-col md:flex-row gap-5 md:gap-15 justify-between items-center">
+          <div className="flex justify-between items-center gap-1">
+            <img className="w-[40px] h-[40px] " src={logoImg} alt="" />
+            <h1 className="font-bold text-[16px] text-white">HERO.IO</h1>
+          </div>
+
+          <div className="flex flex-col gap-5">
+            <a className="text-white" href="">
+              About us
+            </a>
+            <a className="text-white" href="">
+              terms & conditions
+            </a>
+            <a className="text-white" href="">
+              Contact
+            </a>
+            <a className="text-white" href="">
+              Our product
+            </a>
+          </div>
         </div>
+
         <div className="flex flex-col justify-between items-center gap-4">
           <h1 className="font-medium text-[20px] text-white">Social Links</h1>
           <div className="flex gap-4">
@@ -19,7 +37,9 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <p className="text-center font-normal text-[16px] text-white">Copyright © 2025 - All right reserved</p>
+      <p className="text-center font-normal text-[16px] text-white">
+        Copyright © 2025 - All right reserved
+      </p>
     </div>
   );
 };
