@@ -4,7 +4,7 @@ import { Github } from 'lucide-react';
 
 const Navbar = () => {
     return (
-        <div className='flex flex-col md:flex-row justify-between items-center py-5 px-[40px] md:px-[80px] bg-white'>
+        <div className='flex flex-col md:flex-row gap-5 md:gap-0 justify-between items-center py-5 px-[30px] md:px-[80px] bg-white'>
             <div className='flex justify-between items-center gap-1'>
                 <img className='w-[40px] h-[40px] ' src={logoImg} alt="" />
                 <h1 className='font-bold text-[16px]'>HERO.IO</h1>
