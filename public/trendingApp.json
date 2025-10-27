@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://example.com/icons/icon_space_explorer.png",
+    "title": "Astro Atlas Pro",
+    "companyName": "Cosmic Coders Inc.",
+    "id": 101,
+    "description": "The ultimate guide to the stars and planets. Explore high-definition maps and real-time astronomical data.",
+    "size": 75,
+    "reviews": 12500,
+    "ratingAvg": 4.7,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 8050 }
+    ]
+  },
+  {
+    "image": "https://example.com/icons/icon_pixel_editor.png",
+    "title": "Pixel Art Painter",
+    "companyName": "Creative Canvas LLC",
+    "id": 102,
+    "description": "A simple yet powerful tool for creating beautiful pixel art. Perfect for beginners and pros alike.",
+    "size": 42,
+    "reviews": 8900,
+    "ratingAvg": 4.4,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://example.com/icons/icon_focus_timer.png",
+    "title": "Zen Focus Timer",
+    "companyName": "Mindful Software",
+    "id": 103,
+    "description": "A minimalist timer app to boost productivity using the Pomodoro technique. Includes calming background sounds.",
+    "size": 25,
+    "reviews": 21000,
+    "ratingAvg": 4.8,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 5400 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://example.com/icons/icon_cookbook.png",
+    "title": "Recipe Realm",
+    "companyName": "Gourmet Apps Ltd.",
+    "id": 104,
+    "description": "Thousands of recipes from around the world. Save your favorites and create personalized shopping lists.",
+    "size": 95,
+    "reviews": 150000,
+    "ratingAvg": 4.5,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 89800 }
+    ]
+  },
+  {
+    "image": "https://example.com/icons/icon_crypto_finance.png",
+    "title": "Crypto Tracker Live",
+    "companyName": "Digital Finance Solutions",
+    "id": 105,
+    "description": "Real-time cryptocurrency price tracking, portfolio management, and market news.",
+    "size": 60,
+    "reviews": 32000,
+    "ratingAvg": 4.6,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 18450 }
+    ]
+  },
+  {
+    "image": "https://example.com/icons/icon_language_learning.png",
+    "title": "Language Leap",
+    "companyName": "Global Educators",
+    "id": 106,
+    "description": "Learn a new language through interactive games and structured lessons. Supports 15 languages.",
+    "size": 120,
+    "reviews": 98000,
+    "ratingAvg": 4.3,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://example.com/icons/icon_rpg_game.png",
+    "title": "Adventure Quest RPG",
+    "companyName": "Epic Game Studios",
+    "id": 107,
+    "description": "An immersive open-world role-playing game with stunning graphics and a deep storyline.",
+    "size": 550,
+    "reviews": 450000,
+    "ratingAvg": 4.2,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 210000 }
+    ]
+  },
+  {
+    "image": "https://example.com/icons/icon_notepad.png",
+    "title": "Simple Note Keeper",
+    "companyName": "Productivity Tools Co.",
+    "id": 108,
+    "description": "A fast and light-weight app for taking quick notes, creating checklists, and syncing across devices.",
+    "size": 15,
+    "reviews": 50000,
+    "ratingAvg": 4.9,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 41200 }
+    ]
+  }
+]
