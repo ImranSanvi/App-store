@@ -39,6 +39,7 @@ const InstalledApps = () => {
 
     return (
         <div className='py-5 md:py-10 px-[30px] md:px-[80px]'>
+            <title>Installed Apps</title>
            <div className='flex flex-col md:flex-row justify-between items-center mb-5'>
                 <h1 className='font-semibold text-[24px]'>{myApp.length} Apps Found</h1>
 

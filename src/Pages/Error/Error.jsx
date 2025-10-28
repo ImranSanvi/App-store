@@ -4,6 +4,7 @@ import errorImg from '../../assets/error-404.png'
 const Error = () => {
     return (
         <div className='flex flex-col justify-center items-center space-y-6 m-[40px] md:m-[80px]'>
+            <title>Error - 404</title>
             <img src={errorImg} alt="" />
             <div className='space-y-3 text-center'>
                 <h1 className='font-semibold text-[48px]'>Oops, page not found!</h1>

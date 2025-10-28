@@ -21,7 +21,7 @@ const AllApps = () => {
 
     return (
         <div className='py-5 md:py-10 px-[30px] md:px-[80px] text-center'>
-
+            <title>All Apps</title>
             {!search && (
                 <>
                     <h1 className='font-bold text-[30px] md:text-[48px]'>Our All Applications</h1>

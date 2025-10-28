@@ -31,7 +31,9 @@ const AppDetails = () => {
     }
 
     return (
+
         <div className='py-5 md:py-10 px-[30px] md:px-[80px] text-center space-y-4'>
+            <title>{title}</title>
             <ToastContainer />
             <div className=' flex flex-col md:flex-row items-center gap-10'>
                 <img className='w-[350px] h-[350px] ' src={image} alt="" />

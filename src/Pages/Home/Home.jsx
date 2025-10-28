@@ -8,6 +8,7 @@ const Home = () => {
 
     return (
         <div>
+            <title>App Store - Home</title>
             <Banner></Banner>
             <div className='py-5 md:py-10 px-[30px] md:px-[80px] text-center'>
                 <h1 className='font-bold text-[30px] md:text-[48px]'>Trending Apps</h1>

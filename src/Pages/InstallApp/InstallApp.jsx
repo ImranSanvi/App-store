@@ -13,6 +13,7 @@ const InstallApp = ({app, Uninstall}) => {
     }
     return (
         <div>
+            <title>Install Apps</title>
              <ToastContainer />
             <div className='my-3 p-2 flex flex-col md:flex-row justify-between items-center bg-white rounded-2xl gap-5'>
             
