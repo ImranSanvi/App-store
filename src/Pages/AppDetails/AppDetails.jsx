@@ -5,6 +5,7 @@ import ratingsImg from '../../assets/icon-ratings.png'
 import reviewsImg from '../../assets/icon-review.png'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { addToDB, getStoredApp } from '../../Utility/AddToDB';
+import { ToastContainer, toast } from 'react-toastify';
 
 const AppDetails = () => {
     const {appId} = useParams();
@@ -26,10 +27,12 @@ const AppDetails = () => {
     const handleInstall = (num) =>{
         setInstalled(true);
         addToDB(num);
+        toast("Wow!! App Installed Successfully!!")
     }
 
     return (
         <div className='py-5 md:py-10 px-[30px] md:px-[80px] text-center space-y-4'>
+            <ToastContainer />
             <div className=' flex flex-col md:flex-row items-center gap-10'>
                 <img className='w-[350px] h-[350px] ' src={image} alt="" />
                 <div className='space-y-5 text-left'>
