@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import downloadImg from '../../assets/icon-downloads.png'
 import ratingsImg from '../../assets/icon-ratings.png'
 import reviewsImg from '../../assets/icon-review.png'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+import { addToDB, getStoredApp } from '../../Utility/AddToDB';
 
 const AppDetails = () => {
     const {appId} = useParams();
@@ -12,13 +13,26 @@ const AppDetails = () => {
     const data = useLoaderData();
     const targetApp = data.find((App) => App.id === ID);
 
-    const {image, title, companyName, downloads, ratingAvg, reviews, description, ratings} = targetApp;
+    const {id, image, title, companyName, downloads, ratingAvg, reviews, description, ratings, size} = targetApp;
+
+    const [installed, setInstalled] = useState(false);
+    useEffect(() => {
+        const installedApps = getStoredApp();
+        if (installedApps.includes(id)) {
+        setInstalled(true);
+        }
+    }, [id]);
+
+    const handleInstall = (num) =>{
+        setInstalled(true);
+        addToDB(num);
+    }
 
     return (
         <div className='py-5 md:py-10 px-[30px] md:px-[80px] text-center space-y-4'>
             <div className=' flex flex-col md:flex-row items-center gap-10'>
                 <img className='w-[350px] h-[350px] ' src={image} alt="" />
-                <div className='space-y-7'>
+                <div className='space-y-5 text-left'>
                     <h1 className='font-bold text-[32px]'>{title}</h1>
                     <h4 className='font-normal text-[20px]'>Developed by <span className='text-purple-500'>{companyName}</span></h4>
                     <div className='border border-gray-400'></div>
@@ -40,6 +54,8 @@ const AppDetails = () => {
                             <h1 className='font-extrabold text-[25px] md:text-[40px]'>{reviews}K</h1>
                         </div>
                     </div>
+
+                    <button onClick={() => handleInstall(id)} disabled={installed} className='bg-green-400 py-2 px-5 rounded-2xl text-white '>{installed ? "installed" : `Install Now (${size} MB)`}</button>
                 </div>
             </div>
 

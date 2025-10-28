@@ -13,6 +13,7 @@ const Banner = () => {
   };
 
   return (
+    
     <div className="flex flex-col">
       <div className="pt-5 px-[30px] md:px-[80px] flex flex-col items-center text-center">
         <h1 className="font-bold text-[36px] md:text-[72px]">We Build</h1>

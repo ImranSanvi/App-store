@@ -16,9 +16,9 @@ const Navbar = () => {
                 <h1 className='font-bold text-[16px]'>HERO.IO</h1>
             </div>
             <div className='flex justify-between items-center gap-5'>
-                <a className='font-semibold text-[16px]' href="">Home</a>
-                <a className='font-semibold text-[16px]' href="">Apps</a>
-                <a className='font-semibold text-[16px]' href="">Installation</a>
+                <Link to={'/'}><h1 className='font-semibold text-[16px]'>Home</h1></Link>
+                <Link to={'/apps'}><h1 className='font-semibold text-[16px]'>Apps</h1></Link>
+                <Link to={'/installedApps'}><h1 className='font-semibold text-[16px]'>Installation</h1></Link>
             </div>
            <button onClick={handleContributionBtn} className='bg-[linear-gradient(125.07deg,rgba(99,46,227,1),rgba(159,98,242,1)_100%)] py-2 px-3 text-white rounded-2xl flex'><Github></Github> Contribution</button>
         </div>
